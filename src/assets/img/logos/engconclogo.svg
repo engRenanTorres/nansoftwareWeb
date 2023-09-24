@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="224.0706mm"
+   height="77.480263mm"
+   viewBox="0 0 224.0706 77.480263"
+   version="1.1"
+   id="svg99189"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="engconclogo.svg"
+   inkscape:export-filename="logos/engconclogo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview99191"
+     pagecolor="#747474"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.36703143"
+     inkscape:cx="-9.5359681"
+     inkscape:cy="209.7913"
+     inkscape:window-width="1920"
+     inkscape:window-height="952"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1107"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#747474" />
+  <defs
+     id="defs99186" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.9406387,-19.058307)">
+    <g
+       id="g1107"
+       transform="matrix(0.18567251,0,0,-0.18567251,15.766587,18.034119)"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <path
+         d="m 250.00044,-35.772862 -92.0264,-105.659518 c -0.7458,-0.85652 -1.8698,-1.32826 -3.0358,-1.26469 l -143.659497,7.37408 c -3.8866004,0.20075 -4.8495004,5.2696 -1.278,6.7618 l 235.685797,98.282085 c 3.568,1.488871 6.8069,-2.633123 4.3139,-5.493757 M 271.60464,-374.33835 171.07314,-154.24 c -0.5532,1.22456 -0.3467,2.64317 0.5497,3.66696 l 102.1702,117.30616 c 2.2165,2.546133 6.5478,1.037193 6.5303,-2.275125 l -1.6422,-337.397775 c -0.014,-3.82091 -5.4833,-4.89489 -7.0765,-1.39857 m -21.107,-10.35849 -260.0142574,228.28543 c -2.5560996,2.24167 -0.7668296,6.30345 2.69265,6.12613 l 159.4897074,-8.19047 c 1.4006,-0.0702 2.6296,-0.88998 3.1864,-2.11453 l 100.528,-220.09501 c 1.5967,-3.49966 -2.9448,-6.59451 -5.8825,-4.01155 m 36.2615,-34.59532 1.9993,410.225257 c 0.014,2.552824 -2.7241,4.272552 -5.1682,3.252091 L -34.548827,-138.4814 c -2.44405,-1.02046 -2.98328,-4.10861 -1.02244,-5.83502 L 280.56494,-421.87173 c 2.3635,-2.07772 6.1802,-0.48513 6.1942,2.57957"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.42275;stroke-opacity:1"
+         id="path1109" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:98.8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Bold';fill:#000000;stroke-width:3.50377"
+         x="279.0932"
+         y="203.6833"
+         id="text5184"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan5182"
+           style="font-size:98.8px;fill:#000000;stroke-width:3.50377"
+           x="279.0932"
+           y="203.6833">Engenharia </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:98.8px;fill:#000000;stroke-width:3.50377"
+           x="279.0932"
+           y="327.18332"
+           id="tspan5186">          de Concursos</tspan></text>
+    </g>
+  </g>
+</svg>

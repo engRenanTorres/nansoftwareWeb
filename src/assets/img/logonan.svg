@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="330mm"
+   height="140mm"
+   viewBox="0 0 330 140"
+   version="1.1"
+   id="svg99189"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="logonan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview99191"
+     pagecolor="#747474"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.25953041"
+     inkscape:cx="760.98982"
+     inkscape:cy="425.76899"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1107"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#747474"
+     showguides="false" />
+  <defs
+     id="defs99186">
+    <rect
+       x="786.03503"
+       y="335.22083"
+       width="1379.4144"
+       height="720.5321"
+       id="rect26031" />
+    <rect
+       x="-1078.9268"
+       y="550.36157"
+       width="1446.7426"
+       height="471.34927"
+       id="rect24421" />
+    <rect
+       x="779.22479"
+       y="373.26505"
+       width="1217.8794"
+       height="621.2002"
+       id="rect24409" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1107"
+       transform="matrix(0.18567251,0,0,-0.18567251,15.766587,18.034119)"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <path
+         d="M 429.53069,27.456695 271.9874,-153.91484 c -1.27679,-1.47027 -3.20098,-2.28007 -5.1971,-2.17095 l -245.93584,12.6581 c -6.65372,0.34459 -8.302163,9.04561 -2.187935,11.60709 L 422.14566,36.887094 c 6.10823,2.555745 11.653,-4.51993 7.38503,-9.430399 m 36.98508,-581.170055 -172.10354,377.81339 c -0.9471,2.10202 -0.59344,4.53716 0.94111,6.29459 l 174.9089,201.36376 c 3.79442,4.370607 11.20938,1.780409 11.17943,-3.905402 l -2.81133,-579.165618 c -0.0239,-6.55883 -9.38714,-8.40239 -12.11457,-2.40072 m -36.13388,-17.78104 -445.127825,391.86707 c -4.37587,3.84797 -1.312761,10.82026 4.609648,10.51587 l 273.036267,-14.05946 c 2.39774,-0.1206 4.50175,-1.5277 5.45485,-3.62973 l 172.09755,-377.80763 c 2.73342,-6.00742 -5.04125,-11.31993 -10.07049,-6.88612 m 62.07735,-59.38513 3.42283,704.178772 c 0.0239,4.382093 -4.66364,7.334118 -8.84766,5.58243 L -57.599484,-148.84931 c -4.184051,-1.75169 -5.107179,-7.0527 -1.750348,-10.01621 L 481.85525,-635.30755 c 4.04621,-3.56656 10.58002,-0.83276 10.60399,4.42802"
+         style="fill:#abfc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.86744;stroke-opacity:1"
+         id="path1109" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1.425,0,0,-1.425,-84.916108,97.128643)"
+         id="text24407"
+         style="white-space:pre;shape-inside:url(#rect24409);display:inline;fill:#abfc00;stroke:#000080;stroke-width:2" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1.425,0,0,-1.425,-84.916108,97.128643)"
+         id="text26029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:576px;font-family:Athelas;-inkscape-font-specification:Athelas;white-space:pre;shape-inside:url(#rect26031);display:inline;fill:#280b0b;stroke:#000080;stroke-width:2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:496.956px;font-family:Athelas;-inkscape-font-specification:Athelas;fill:#28220b;stroke:#000080;stroke-width:1.42258"
+         x="600.9931"
+         y="454.51697"
+         id="text26037"
+         transform="scale(0.99865052,-1.0013513)"><tspan
+           sodipodi:role="line"
+           id="tspan26035"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:496.956px;font-family:Damascus;-inkscape-font-specification:Damascus;fill:#24221c;stroke-width:1.42258"
+           x="600.9931"
+           y="454.51697">NAN</tspan></text>
+    </g>
+  </g>
+</svg>
