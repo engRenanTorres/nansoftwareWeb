@@ -39,7 +39,7 @@
         <!-- Top Menu -->
         <div class="ms-auto d-flex" (clickOutside)="onClickedOutside($event)">
             <!-- to scroll let's talk to Contact Page change below "href="javascript:" to " spyOn="contactus" href="#contactus" "-->
-            <a class="px-btn dark d-none d-lg-inline-flex" href="javascript:">Lets' Talk</a>
+            <a class="px-btn dark d-none d-lg-inline-flex" spyOn="contactus" href="#contactus">Lets' Talk</a>
             <button class="toggler-menu d-lg-none" [ngClass]="{'open': sidebarOpen}" (click)="toggleMenu()">
                 <span></span>
             </button>
